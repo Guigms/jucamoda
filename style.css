@@ -5,11 +5,11 @@
 }
 
 :root {
-  --text-color: rgb(194, 169, 25);
+  --text-color: rgb(241, 241, 241);
 }
 
 body {
-  background: url(./assets/bgjucamoda.jpg) no-repeat;
+  background: url(./assets/bgjucamoda.jpeg) no-repeat;
 }
 
 body * {
