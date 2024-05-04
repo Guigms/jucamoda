@@ -9,8 +9,7 @@
 }
 
 body {
-  background: url(./assets/bg-jucamodas.jpg) no-repeat top center/cover;
-  height: max-content;
+  background: url(./assets/bgjucamoda.jpg) no-repeat;
 }
 
 body * {
